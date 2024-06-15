@@ -28,6 +28,9 @@ Letërsia romantike shqiptare:
 - Tregimi : “Gjahu i malësorevet” – K.K.
 - Romani: “Dashuria e Talatit me Fitneten” – S. Frasheri dhe “Bardha e Temalit” – P. Vasa në frëngjisht
 
+Termi "purist" në kontekstin e gjuhës dhe letërsisë përdoret për të përshkruar një person ose një grup që mbështet përdorimin e një gjuhe në mënyrë të konservuar dhe tradicionale, duke u përpiqur për të pastruar gjuhën nga ndikimet e huaja dhe duke promovuar përdorimin e termave të krijuara nga elementët natyrorë të gjuhës. Në rastin e shqipes, puristët si Naim Frashëri dhe rilindësit e tjerë kishin për qëllim të zhvillonin dhe përmirësonin gjuhën shqipe duke krijuar fjalë të reja për të zëvendësuar fjalët e huaja, duke u bazuar në rrënjët dhe formën origjinale të gjuhës së tyre kombëtare. 
+- Naim Frashëri dhe rilindësit e tjerë përpiqeshin ta pastronin gjuhën shqipe nga fjalët e huaja duke futur në përdorim terma si “dheshkronjë” për gjeografi etj.
+
 Faik Konica - proze poetike
 "Lahuta e Malsise" - kenge kreshike, historike
 Xha Gorio - realist
