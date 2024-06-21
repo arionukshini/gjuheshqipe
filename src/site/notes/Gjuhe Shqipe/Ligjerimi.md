@@ -43,3 +43,24 @@ Pandrysueshme: lidhezat, parafjala, ndajfolja, pjesezat, pasthirrma
 
 Letrat: me personazhe, ngjarje.
 Jo letrar: fjalimi.
+
+- Kundrinori i drejte: ke?, cilin?, cilen?, cfare?. Shprehet me emer, me peremer, me grup emror, me trajte te shkurter te peremrit vetor.
+- Kundrinori i zhdrejt me parafjale: per ke?, me se?, nga kush?, prej kujt?, nga se?. Shprehet me emer, me peremer.
+- Kundrinori i zhdrejt pa parafjale:  kujt?, cilit?, ciles?, cileve?, cilave?. Shprehet me emer ne rasen dhenore, me peremer, me grup emror.
+
+Kundrinori eshte gjymtyre e dyte dhe ne sintakse.
+
+Pjesorja - mbaron fjala me -ar
+Percjellorja - "duke" lexuar (funk. kohor, menyror, shkakor, kushtor)
+Paskajorja - "per te" lexuar (funk. kohor, menyror, kushtuar)
+Mohorja - "pa" lexuar (funk. qellimore, kallzuesor, percaktor)
+Habitorja - lexuakam
+Epifat - shkrim mbi varr
+Poema - poezi e gjate e ndare ne kenge me numra arab ose romak (kenget e milosaos)
+
+Poezi, prozen, skicen, tegime, anekdoten.
+
+| kohen e kryer             | kam lexuar   | kam hapur   | eshte lexuar | eshte hapur |
+| ------------------------- | ------------ | ----------- | ------------ | ----------- |
+| kohen me se e kryer       | kisha lexuar | kisha hapur | ishte lexuar | ishte hapur |
+| kohen e kryer e tejshkuar | pata lexuar  | pata hapur  | qe hapur     |             |

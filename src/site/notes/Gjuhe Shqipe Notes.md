@@ -16,3 +16,6 @@
 11. [[Gjuhe Shqipe/Peremrat\|Peremrat]]
 12. [[Gjuhe Shqipe/Rasat\|Rasat]]
 13. [[Gjuhe Shqipe/Porcese Fonetike\|Porcese Fonetike]]
+
+
+

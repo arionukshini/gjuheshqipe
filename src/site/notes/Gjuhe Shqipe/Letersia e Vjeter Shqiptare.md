@@ -41,6 +41,8 @@ Koha moderne - perpjekje per ndryshyme (roma mdoket e kum shkru, spe di)
 Honore de Balzak - Rodost
 Gustav Flober - Zonja Bovari
 
+Kenget Kreshnike - formule hyrese (me Zotin dishka), formule mbyllese -> nuk jam kan po ashtu um kan than
+
 Periudhat e letersise shqipe:
 1. Letersia e vjeter shqipe
 2. Letersia arbereshe
